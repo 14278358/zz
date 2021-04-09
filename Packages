@@ -782,6 +782,7 @@ Moderndepiction: https://yttxcs.cn/depiction/sileo/com.synnyg.backupaz3pojie.jso
 Name: BackupAZ 3 「破解补丁」
 Sileodepiction: https://yttxcs.cn/depiction/sileo/com.synnyg.backupaz3pojie.json
 
+<<<<<<< HEAD
 Package: com.thuthuatjb.vcallers
 Version: 2.1
 Architecture: iphoneos-arm
@@ -992,6 +993,8 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia-lproj/
 Name: Cydia Translations
 
+=======
+>>>>>>> parent of dcf652a (.)
 Package: jp.akusio.backgrounderaction11
 Version: 0.0.7
 Architecture: iphoneos-arm
